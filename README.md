@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShravyaKasarla
 - 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning Advanced Excel, SQL, Power BI....
+- 🌱 I’m currently learning Advanced Excel, SQL, Power BI, numpy, Pandas....
 .
 
 <!---
