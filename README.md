@@ -6,10 +6,18 @@
 - 📫How to reach me shravyakasarla874@gmail.com
 
 🔗 **My Social Profiles**
-![download](https://github.com/user-attachments/assets/efded9cc-0f2a-46f8-9962-4ce8946d806c)
-Linkedin - (www.linkedin.com/in/shravya-kasarla)
+
+Linkedin - www.linkedin.com/in/shravya-kasarla
+
 Hackerrank - https://www.hackerrank.com/profile/shravyakasarla81
 
+
+
+🔗 **Languages and Tools:**
+
+**Languages** - Python (pandas, numpy, matplotlib), C, SQL
+
+**Tools and Databases** - PowerBI, Jupyter Notebook, MySQL
 
   
 <!---
