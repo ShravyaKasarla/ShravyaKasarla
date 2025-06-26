@@ -6,7 +6,7 @@
 - 📫How to reach me shravyakasarla874@gmail.com
 
 🔗 **My Social Profiles**
-![image](https://github.com/user-attachments/assets/a77b57f9-5297-4d6b-a45e-97e08331e8e2)(www.linkedin.com/in/shravya-kasarla)
+![image](www.linkedin.com/in/shravya-kasarla)
 
   
 <!---
